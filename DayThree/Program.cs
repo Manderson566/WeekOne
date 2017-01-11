@@ -10,13 +10,32 @@ namespace DayThree
     {
         static void Main(string[] args)
         {
-            string playAgain = "Y";
-            while (playAgain == "Y")
+            bool playAgain = true;
+            string player = "Mic";
+            int guess;
+
+            while (playAgain)
             {
-                Console.WriteLine("Play Again Y/N");
-                playAgain = Console.ReadLine();
+                Console.WriteLine($"{ player} Guess A Number");
+                guess = int.Parse(Console.ReadLine());
+
+                if (guess <= 5)
+                {
+                    playAgain = false;
+                }
+                else
+                {
+                    player = player == "Mic" ? "Bob" : "Mic";
+                    {
+
+                    }
+                
+                        Console.WriteLine($"{player}Lost!");
+                    }
+                }
+
             }
+
         }
-    
     }
-}
+
