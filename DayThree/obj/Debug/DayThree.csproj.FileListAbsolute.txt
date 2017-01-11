@@ -1,0 +1,6 @@
+C:\Users\Mic\Desktop\C# Projects\Projects\WeekOne\DayThree\bin\Debug\DayThree.exe.config
+C:\Users\Mic\Desktop\C# Projects\Projects\WeekOne\DayThree\bin\Debug\DayThree.exe
+C:\Users\Mic\Desktop\C# Projects\Projects\WeekOne\DayThree\bin\Debug\DayThree.pdb
+C:\Users\Mic\Desktop\C# Projects\Projects\WeekOne\DayThree\obj\Debug\DayThree.csprojResolveAssemblyReference.cache
+C:\Users\Mic\Desktop\C# Projects\Projects\WeekOne\DayThree\obj\Debug\DayThree.exe
+C:\Users\Mic\Desktop\C# Projects\Projects\WeekOne\DayThree\obj\Debug\DayThree.pdb

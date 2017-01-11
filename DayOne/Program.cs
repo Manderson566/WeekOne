@@ -10,16 +10,19 @@ namespace WeekOne
     {
         static void Main(string[] args)
         {
+            string[] addLines = {" ",
+                                 " "};
             string[] board = {
                 "_", "_", "_", "_", "_", "_", "_", "_", "_"
         };
             int counter = 0;
             foreach (string place in board)
+                foreach(string line in addLines)
             {
                 Console.Write(" " + place);
                 if (counter == 2)
                 {
-                    Console.WriteLine("");
+                    Console.WriteLine (line);
                     counter = 0;
                 }
                 else
